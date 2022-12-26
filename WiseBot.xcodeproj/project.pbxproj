@@ -12,6 +12,7 @@
 		5E82E239294F173C0003590D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E82E238294F173C0003590D /* Assets.xcassets */; };
 		5E82E23C294F173C0003590D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E82E23B294F173C0003590D /* Preview Assets.xcassets */; };
 		5E82E244294F17B10003590D /* OpenAISwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5E82E243294F17B10003590D /* OpenAISwift */; };
+		5EA8AC0B2955E5D90042996C /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA8AC0A2955E5D90042996C /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5E82E236294F173A0003590D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5E82E238294F173C0003590D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E82E23B294F173C0003590D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5EA8AC0A2955E5D90042996C /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				5E82E234294F173A0003590D /* WiseBotApp.swift */,
+				5EA8AC0A2955E5D90042996C /* SplashScreenView.swift */,
 				5E82E236294F173A0003590D /* ContentView.swift */,
 				5E82E238294F173C0003590D /* Assets.xcassets */,
 				5E82E23A294F173C0003590D /* Preview Content */,
@@ -147,6 +150,7 @@
 			files = (
 				5E82E237294F173A0003590D /* ContentView.swift in Sources */,
 				5E82E235294F173A0003590D /* WiseBotApp.swift in Sources */,
+				5EA8AC0B2955E5D90042996C /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +279,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WiseBot/Preview Content\"";
+				DEVELOPMENT_TEAM = DM9ZJ89CX6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = WiseBot;
@@ -307,6 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WiseBot/Preview Content\"";
+				DEVELOPMENT_TEAM = DM9ZJ89CX6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = WiseBot;
