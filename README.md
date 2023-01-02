@@ -11,10 +11,10 @@
     <th>Full Video</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/splash-screen.png" alt="wisebot-splash" height="500px" /</td>
-        <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/chat-screen-light.png" alt="wisebot-light" height="500px" /</td>
-                <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/chat-screen-dark.png" alt="wisebot-dark" height="500px" /</td>
-    <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/wisebot-demo.gif" alt="wisebot-demo" height="500px" /></td>
+    <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/splash-screen.png" alt="wisebot-splash" height="400px" /</td>
+        <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/chat-screen-light.png" alt="wisebot-light" height="400px" /</td>
+                <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/chat-screen-dark.png" alt="wisebot-dark" height="400px" /</td>
+    <td><img src="https://github.com/iamkishansharma/my-project-screenshots/blob/main/WiseBot/wisebot-demo.gif" alt="wisebot-demo" height="400px" /></td>
   </tr>
 </table>
 
